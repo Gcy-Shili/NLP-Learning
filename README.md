@@ -9,6 +9,6 @@ A repo that records the learning process of NLP/ML/DL , with code or notes
 
 --- 2024.11.6
 
-**Update:** A note : Understanding_attention
+**Update:** A note : [Understanding_attention](https://github.com/Gcy-Shili/NLP-Learning/blob/main/understanding_attention.md)
 
 --- 2024.11.28
