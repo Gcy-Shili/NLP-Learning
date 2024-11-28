@@ -8,3 +8,7 @@ A repo that records the learning process of NLP/ML/DL , with code or notes
 **Update:** Sentiment Analysis (Text Classification) by ML models and BERT model by Pytorch    
 
 --- 2024.11.6
+
+**Update:** A note : Understanding_attention
+
+--- 2024.11.28
